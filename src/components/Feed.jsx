@@ -35,7 +35,7 @@ const Feed = () => {
             display: { xs: 'none', md: 'block' }
           }}
         >
-          Copyright © 2024 ML Recommendations
+          Copyright © 2025 ML Recommendations
         </Typography>
       </Box>
 
